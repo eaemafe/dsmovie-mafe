@@ -1,8 +1,6 @@
-## ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Projeto Semana Spring React 8.0 ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)
+## ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Projeto website estático:
 
 
-
-#### Projeto website estático:
 
 ####  :movie_camera: Catálogo de filmes
 
